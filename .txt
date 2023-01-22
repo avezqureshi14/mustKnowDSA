@@ -1,1 +1,3 @@
-Hey this is Must to Know DSA series
+Stack made using arrray are more efficient than stack made using linked list because linked list require more space to store pointer and value 
+
+Insertion in linked list from the opposite side of NULL is most easy in O(1)
